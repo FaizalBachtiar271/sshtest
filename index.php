@@ -47,7 +47,7 @@
         <li> <a class="page-scroll" href="#team">Team</a> </li>
         <li> <a class="page-scroll" href="#testimonials">Testimonials</a> </li>
         <li> <a class="page-scroll" href="#contact">Contact</a> </li>
-        <li> <a class="colapse-item" href="login.html">Admin</a> </li>
+        <li> <a class="colapse-item" href="login.php">Admin</a> </li>
       </ul>
     </div>
     <!-- /.navbar-collapse --> 
